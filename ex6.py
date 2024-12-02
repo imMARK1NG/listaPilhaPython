@@ -18,4 +18,4 @@ while pilha1 or pilha2:
         else:
             pilha3.append(pilha2.pop())
 
-print("Pilha 3 (ordenada decrescente):", pilha3)
+print("Pilha 3:", pilha3)
